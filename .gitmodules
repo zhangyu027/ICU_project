@@ -1,0 +1,6 @@
+[submodule "Sentiment_project/Sentiment_project/Sentiment_analysis"]
+	path = Sentiment_project/Sentiment_project/Sentiment_analysis
+	url = https://github.com/zhangyu027/Sentiment_analysis
+[submodule "Food_death_project/Food_health_project"]
+	path = Food_death_project/Food_health_project
+	url = https://github.com/zhangyu027/Food_health_project
